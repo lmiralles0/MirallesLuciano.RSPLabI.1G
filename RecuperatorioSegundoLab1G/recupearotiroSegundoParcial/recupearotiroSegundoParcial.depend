@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1638299709 source:c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\get_entrada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"get_Entrada.h"
+
+1638299709 c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\get_entrada.h
+
+1638489291 source:c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1638299709 c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\linkedlist.h
+
+1638483692 source:c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"parser.h"
+	"datos.h"
+
+1638299709 c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\controller.h
+	"LinkedList.h"
+
+1638299709 c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\parser.h
+
+1638488355 c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\datos.h
+	"LinkedList.h"
+
+1638489671 source:c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\datos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datos.h"
+	<time.h>
+
+1638489597 source:c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"get_Entrada.h"
+	"datos.h"
+	"controller.h"
+	<time.h>
+
+1638484045 source:c:\users\luciano miralles\desktop\recuperatoriosegundolab1g\recupearotirosegundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datos.h"
+	"LinkedList.h"
+
